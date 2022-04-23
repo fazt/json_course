@@ -1,0 +1,23 @@
+{
+  "name": "json_tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial de JSON en Youtube https://youtu.be/lLsYjzpSDyA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaztTech/json_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaztTech/json_tutorial/issues"
+  },
+  "homepage": "https://github.com/FaztTech/json_tutorial#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}

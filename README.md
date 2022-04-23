@@ -1,3 +1,3 @@
-# json_tutorial
-Tutorial de JSON en Youtube
-https://youtu.be/lLsYjzpSDyA
+## JSON Course
+
+JSON Course for beginners practical example
