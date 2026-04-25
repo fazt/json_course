@@ -1,23 +1,24 @@
 {
-  "name": "json_tutorial",
-  "version": "1.0.0",
-  "description": "Tutorial de JSON en Youtube https://youtu.be/lLsYjzpSDyA",
-  "main": "index.js",
+  "name": "json-course",
+  "version": "1.1.0",
+  "description": "Curso de JSON con ejemplos prácticos. Tutorial en YouTube: https://youtu.be/lLsYjzpSDyA",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "five-server",
+    "dev": "five-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaztTech/json_tutorial.git"
+    "url": "git+https://github.com/fazt/json_course.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["json", "tutorial", "fetch", "curso"],
+  "author": "fazt",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FaztTech/json_tutorial/issues"
+    "url": "https://github.com/fazt/json_course/issues"
   },
-  "homepage": "https://github.com/FaztTech/json_tutorial#readme",
-  "dependencies": {
-    "live-server": "^1.2.1"
+  "homepage": "https://github.com/fazt/json_course#readme",
+  "devDependencies": {
+    "five-server": "^0.4.5"
   }
 }
